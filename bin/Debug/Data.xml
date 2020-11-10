@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Race>
+    <name>kyiv</name>
+    <timeArr>19.12.2020 19.40</timeArr>
+    <timeDeparture>19.12.2020 19.55</timeDeparture>
+  </Race>
+  <Race>
+    <name>vinnitsia</name>
+    <timeArr>19.12.2020 22.20</timeArr>
+    <timeDeparture>19.12.2020 22.40</timeDeparture>
+  </Race>
+</ArrayOfRace>

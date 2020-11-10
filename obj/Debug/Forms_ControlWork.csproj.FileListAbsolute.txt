@@ -1,0 +1,13 @@
+E:\c# 2semestr\Forms_ControlWork\bin\Debug\Forms_ControlWork.exe.config
+E:\c# 2semestr\Forms_ControlWork\bin\Debug\Forms_ControlWork.exe
+E:\c# 2semestr\Forms_ControlWork\bin\Debug\Forms_ControlWork.pdb
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.AdminPanel.resources
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.Form1.resources
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.Login.resources
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.Properties.Resources.resources
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.UserPanel.resources
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.csproj.GenerateResource.cache
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.csproj.CoreCompileInputs.cache
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.exe
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.pdb
+E:\c# 2semestr\Forms_ControlWork\obj\Debug\Forms_ControlWork.csprojAssemblyReference.cache
